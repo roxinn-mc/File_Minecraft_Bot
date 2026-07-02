@@ -1,4 +1,4 @@
-# 🤖​ Criar bot do Minecraft
+# 🤖​ Pasta Para Criar bot de Minecraft
 Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidade de personalizar o seu robô, como nome e donos, por exemplo, mas você tem o que encinaar cada coisa do zero, aliás ele não é o Albert Einstein, mesmo que seja Inteteligência Artifical / IA (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais como Linux, MacOS, por exemplo)
 
 # 👉​​Tutorial:
