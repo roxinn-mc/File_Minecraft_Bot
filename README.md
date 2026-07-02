@@ -1,5 +1,5 @@
 # 🤖​ Criar bot do Minecraft
-Arquivo para criar bot de Minecraft (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais)
+Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidade de personalizar o seu robô, como nome, por exemplo, ms você tem o que encinaar cada coisa do zero, aliás ele não é o Albert Einstein, mesmo que seja Inteteligência Artifical / IA (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais)
 
 # 👉​​ Tutorial:
 1. na area de trabalho do seu computador, clique no botão de direito do mouse, clique em ` novo ` e depois em ` macarrão `, agora coloque o nome do seu robô (recomendado o nome do seu robô)
@@ -10,7 +10,7 @@ Arquivo para criar bot de Minecraft (disponível apenas no Windows 10 e 11; não
 
 4. agora entre em: https://nodejs.org/ e baixe e instale o ` it.js ` (ele é responsavel por criar o robô; ele nn é pesado como a ollama)
  
-5. na pasta do robô, na localização da pasta (exemplo: ` cd C:\Users\Roxinn\Desktop\botzin `), apague o que estiver escrito, agora vamos instalar prmeiro as extensões do Node: ` npm inicialização -y `, ` npm instalar mineflayer` `npm instalar mineflayer-pathfinder axios dotenv`,`npm instalar mineflayer-collectblock mineflayer-pvp prismarine-viewer` | agora as extensões da Ollama, coloque ` lista ollama` para ver os modelos disponíveis/instalados, e coloque o que você quer (exemplo ` ollama puxa lhama3.2`), depois coloque `ollama corre lhama3.2`
+5. na pasta do robô, na localização da pasta (exemplo: ` cd C:\Users\Roxinn\Desktop\botzin `), apague o que estiver escrito, agora vamos instalar prmeiro as extensões do Node: ` npm inicialização -y `, ` npm instalar mineflayer` `npm instalar mineflayer-pathfinder axios dotenv`,`npm instalar mineflayer-collectblock mineflayer-pvp prismarine-viewer` | agora as extensões da Ollama, coloque ` lista ollama` para ver os modelos disponíveis/instalados, e coloque o que você quer (exemplo: ` ollama puxa lhama3.2`), depois coloque `ollama corre lhama3.2`
 
 6. para iniciar o seu robô coloque ` não index.js `
 
