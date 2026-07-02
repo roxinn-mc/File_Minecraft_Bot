@@ -12,7 +12,7 @@ Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidad
  
 5. na pasta do robô, na localização da pasta (exemplo: ` cd C:\Users\Roxinn\Desktop\botzin `), apague o que estiver escrito, agora vamos instalar prmeiro as extensões do Node: ` npm inicialização -y `, ` npm instalar mineflayer` `npm instalar mineflayer-pathfinder axios dotenv`,`npm instalar mineflayer-collectblock mineflayer-pvp prismarine-viewer` | agora as extensões da Ollama, coloque ` lista ollama` para ver os modelos disponíveis/instalados, e coloque o que você quer (exemplo: ` ollama puxa lhama3.2`), depois coloque `ollama corre lhama3.2`
 
-6. para iniciar o seu robô coloque ` não index.js `
+6. para iniciar o seu robô coloque ` não index.js `, no `cmd`
 
 # ⚠️​ AVISO!
 
