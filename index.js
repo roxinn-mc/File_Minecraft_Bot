@@ -1,38 +1,38 @@
-const mineflayer = require('mineflayer')
+const destruidor de minas = exigir('destruidor de minas')
 
-const donos = ['meninoroxo', 'q1wn']
+const donos = ['name', 'name']
 
-const bot = mineflayer.createBot({
-  host: 'galinhaxd.aternos.me',
-  username: 'botzin',
-  port: '21656'
+const robô = destruidor de minas.criarBot({
+  hospedar: 'ip',
+  nome de usuário: 'name_bot',
+  porta: 'your_port'
 })
 
-bot.on('chat', async (username, message) => {
-  if (username === bot.username) return
-  if (!donos.includes(username)) return
+robô.sobre('bater papo', assíncrono (nome de usuário, mensagem) => {
+  se (nome de usuário === robô.nome de usuário) retornar
+  se (!donos.inclui(nome de usuário)) retornar
 
-  try {
-    const response = await fetch(
+  tentar {
+    const resposta = espere buscar(
       'http://localhost:11434/api/generate',
       {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
+        método: 'PUBLICAR',
+        cabeçalhos: {
+          'Tipo de conteúdo': 'aplicativo/json'
         },
-        body: JSON.stringify({
-          model: 'llama3',
-          prompt: message,
-          stream: false
+        corpo: JSON.restringir({
+          modelo: 'lhama3',
+          incitar: mensagem,
+          fluxo: falso
         })
       }
     )
 
-    const data = await response.json()
+    const dados = espere resposta.JSON()
 
-    bot.chat(data.response.substring(0, 100))
-  } catch (err) {
-    console.log(err)
-    bot.chat('Erro ao falar com a IA')
+    robô.bater papo(dados.resposta.substring(0, 100))
+  } pegar (errar) {
+    console.registro(errar)
+    robô.bater papo('Erro ao falar com a IA')
   }
 })
