@@ -1,7 +1,7 @@
 # 🤖​ Criar bot do Minecraft
-Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidade de personalizar o seu robô, como nome, por exemplo, ms você tem o que encinaar cada coisa do zero, aliás ele não é o Albert Einstein, mesmo que seja Inteteligência Artifical / IA (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais)
+Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidade de personalizar o seu robô, como nome e donos, por exemplo, mas você tem o que encinaar cada coisa do zero, aliás ele não é o Albert Einstein, mesmo que seja Inteteligência Artifical / IA (disponível apenas no Windows 10 e 11; não disponível para outros sistemas operacionais como Linux, MacOS, por exemplo)
 
-# 👉​​ Tutorial:
+# 👉​​Tutorial:
 1. na area de trabalho do seu computador, clique no botão de direito do mouse, clique em ` novo ` e depois em ` macarrão `, agora coloque o nome do seu robô (recomendado o nome do seu robô)
 
 2. entre na pasta, e baixe o arquivo ` index.js ` e configure o aquivo (o arquivo é o "cérebro" do seu robô); Ajuda: em `const donos` coloque o seu nome, se for 2 ou mais nomes (exemplo: ` ['meninoroxo', 'jvixtroer'] ` ) , sempre tem que ter a ` , `, mas se for só 1 nome (exemplo: ` [meninoroxo] `) NÂO coloque vígula; em `hospedar`, coloque o ip onde o seu robô vai entrar; em ` nome de usuário ` coloque o nome do seu robô; e por ultimo, em ` porta ` coloque a porta onde seu robô  vai entrar (opcional mas recomendado)
@@ -16,4 +16,4 @@ Arquivo para criar bot de Minecraft, gratis, facil e simples, com disponibilidad
 
 # ⚠️​ AVISO!
 
-Você tem encinar tudo para o seu robô, pois ele não nasce sabendo de tudo né 
+Você tem encinar tudo para o seu robô; se tiver bug, me avise! 
